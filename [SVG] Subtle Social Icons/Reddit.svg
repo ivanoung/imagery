@@ -1,0 +1,56 @@
+<svg id="Reddit" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90.75" height="90.5" viewBox="0 0 90.75 90.5">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #db9de1;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #35363a;
+      }
+    </style>
+    <filter id="filter" x="176" y="174.75" width="90.75" height="90.5" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" in="SourceAlpha"/>
+      <feFlood result="flood" flood-color="#fff" flood-opacity="0.1"/>
+      <feComposite result="composite" operator="out" in2="blur"/>
+      <feOffset result="offset" dy="1"/>
+      <feComposite result="composite-2" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="container" class="cls-1" d="M221.5,174.751c35.574,0,45.249,9.39,45.249,45.755,0,35.575-9.927,44.744-45.5,44.744-36.365,0-45.249-9.422-45.249-45C176,183.889,185.137,174.751,221.5,174.751Z" transform="translate(-176 -174.75)"/>
+  <path id="icon" class="cls-2" d="M209.115,225.327a2.779,2.779,0,1,0,2.779-2.778,2.779,2.779,0,0,0-2.779,2.778m16.673,0a2.779,2.779,0,1,0,2.778-2.778,2.778,2.778,0,0,0-2.778,2.778m0.134,5.939a1.65,1.65,0,1,1,2.043,2.591,12.864,12.864,0,0,1-15.472,0,1.65,1.65,0,0,1,2.045-2.591,9.569,9.569,0,0,0,11.384,0m16.538-11.5a5.556,5.556,0,0,0-10.413-2.7,24.291,24.291,0,0,0-10.129-2.8l3.316-7.448,6.347,1.833a4.168,4.168,0,1,0,.261-3.36l-7.075-2.041a1.651,1.651,0,0,0-1.964.913l-4.5,10.118a24.234,24.234,0,0,0-9.884,2.789,5.557,5.557,0,1,0-7.1,7.785,10.158,10.158,0,0,0-.537,3.252c0,7.672,8.708,13.894,19.451,13.894s19.451-6.222,19.451-13.894a10.12,10.12,0,0,0-.537-3.251,5.561,5.561,0,0,0,3.316-5.085M235.513,205.7a1.564,1.564,0,1,1-1.563,1.564,1.563,1.563,0,0,1,1.563-1.564M200.779,219.77a2.778,2.778,0,0,1,5.289-1.188,14.731,14.731,0,0,0-3.544,3.765,2.78,2.78,0,0,1-1.745-2.577M220.23,238.7c-8.921,0-16.151-4.745-16.151-10.594s7.23-10.594,16.151-10.594,16.152,4.744,16.152,10.594S229.151,238.7,220.23,238.7m17.707-16.353a14.74,14.74,0,0,0-3.546-3.765,2.778,2.778,0,1,1,3.546,3.765" transform="translate(-176 -174.75)"/>
+</svg>

@@ -1,0 +1,56 @@
+<svg id="Mixi" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90.75" height="90.5" viewBox="0 0 90.75 90.5">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #f2cf75;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #35363a;
+      }
+    </style>
+    <filter id="filter" x="776" y="534.75" width="90.75" height="90.5" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" in="SourceAlpha"/>
+      <feFlood result="flood" flood-color="#fff" flood-opacity="0.1"/>
+      <feComposite result="composite" operator="out" in2="blur"/>
+      <feOffset result="offset" dy="1"/>
+      <feComposite result="composite-2" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="container" class="cls-1" d="M821.5,534.751c35.575,0,45.249,9.39,45.249,45.755,0,35.575-9.927,44.744-45.5,44.744-36.365,0-45.249-9.422-45.249-45C776,543.889,785.137,534.751,821.5,534.751Z" transform="translate(-776 -534.75)"/>
+  <path id="icon" class="cls-2" d="M818.94,599.294h2.2v4.934c15-1.575,22.992-16.448,21.7-26.927s-12.554-17.717-25.207-16.166-21.8,11.306-20.506,21.785c1.177,9.536,10.594,16.384,21.817,16.374M833.1,589.162h-4.221V577.754a6.323,6.323,0,0,0-.121-1.282,2.072,2.072,0,0,0-.377-0.874,1.891,1.891,0,0,0-.761-0.561,3.675,3.675,0,0,0-1.432-.23,4.07,4.07,0,0,0-2.882.955,3.264,3.264,0,0,0-1,2.531v10.869h-4.22V577.754a5.874,5.874,0,0,0-.133-1.3,2.282,2.282,0,0,0-.4-0.891,1.754,1.754,0,0,0-.724-0.547,3.516,3.516,0,0,0-1.337-.213,3.877,3.877,0,0,0-1.829.395,4.213,4.213,0,0,0-1.25.977,3.821,3.821,0,0,0-.685,1.163,3,3,0,0,0-.213.951v10.869h-4.216V571.44h4.049v1.383a7.307,7.307,0,0,1,5.02-1.762,7.388,7.388,0,0,1,3.224.7,4.1,4.1,0,0,1,1.7,1.506,6.6,6.6,0,0,1,1.873-1.4,7.517,7.517,0,0,1,3.454-.8,10.349,10.349,0,0,1,2.543.29,5.747,5.747,0,0,1,2.057.95,4.519,4.519,0,0,1,1.39,1.728,5.744,5.744,0,0,1,.492,2.461v12.672h0Z" transform="translate(-776 -534.75)"/>
+</svg>

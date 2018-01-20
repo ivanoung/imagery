@@ -1,0 +1,56 @@
+<svg id="Pay_Pal" data-name="Pay Pal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90.75" height="90.5" viewBox="0 0 90.75 90.5">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #30a8e6;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #35363a;
+      }
+    </style>
+    <filter id="filter" x="896" y="54.75" width="90.75" height="90.5" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" in="SourceAlpha"/>
+      <feFlood result="flood" flood-color="#fff" flood-opacity="0.1"/>
+      <feComposite result="composite" operator="out" in2="blur"/>
+      <feOffset result="offset" dy="1"/>
+      <feComposite result="composite-2" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="container" class="cls-1" d="M941.5,54.751c35.575,0,45.249,9.39,45.249,45.755,0,35.575-9.927,44.744-45.5,44.744-36.365,0-45.249-9.422-45.249-45C896,63.889,905.137,54.751,941.5,54.751Z" transform="translate(-896 -54.75)"/>
+  <path id="icon" class="cls-2" d="M958.29,89.788a9.768,9.768,0,0,1,.982,4.614,11.937,11.937,0,0,1-5.28,10.111q-5.283,3.843-14.761,3.841h-1.479a2.657,2.657,0,0,0-2.473,1.943l-1.776,7.574a2.658,2.658,0,0,1-2.473,1.946h-3.238l-0.289,1.238A1.523,1.523,0,0,0,929.066,123h5.185a2.65,2.65,0,0,0,2.471-1.945l1.778-7.576a2.661,2.661,0,0,1,2.473-1.939h1.479q9.478,0,14.759-3.844A11.923,11.923,0,0,0,962.5,97.584a9.737,9.737,0,0,0-.982-4.611,7.766,7.766,0,0,0-2.85-3C958.536,89.894,958.427,89.863,958.29,89.788Zm-28.017,24.9,1.778-7.576a2.661,2.661,0,0,1,2.472-1.941H936q9.478,0,14.759-3.843a11.932,11.932,0,0,0,5.282-10.112,9.728,9.728,0,0,0-.985-4.611,7.788,7.788,0,0,0-2.847-3,13.012,13.012,0,0,0-4.5-1.633,34.728,34.728,0,0,0-6.09-.471h-10.8a2.657,2.657,0,0,0-2.478,1.94l-7.3,31.243a1.524,1.524,0,0,0,1.563,1.947H927.8A2.65,2.65,0,0,0,930.273,114.686Zm4.236-18.128,1.559-6.632a2.661,2.661,0,0,1,2.47-1.943h1.7a8.221,8.221,0,0,1,4.48.994,3.37,3.37,0,0,1,1.511,3.04,5.576,5.576,0,0,1-2.34,4.8,10.99,10.99,0,0,1-6.524,1.688H936.08A1.53,1.53,0,0,1,934.509,96.558Z" transform="translate(-896 -54.75)"/>
+</svg>

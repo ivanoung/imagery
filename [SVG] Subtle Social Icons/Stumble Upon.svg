@@ -1,0 +1,56 @@
+<svg id="Stumble_Upon" data-name="Stumble Upon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90.75" height="90.5" viewBox="0 0 90.75 90.5">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #f4b367;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #35363a;
+      }
+    </style>
+    <filter id="filter" x="1016" y="414.75" width="90.75" height="90.5" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" in="SourceAlpha"/>
+      <feFlood result="flood" flood-color="#fff" flood-opacity="0.1"/>
+      <feComposite result="composite" operator="out" in2="blur"/>
+      <feOffset result="offset" dy="1"/>
+      <feComposite result="composite-2" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="container" class="cls-1" d="M1061.5,414.751c35.58,0,45.25,9.39,45.25,45.755,0,35.575-9.93,44.744-45.5,44.744-36.37,0-45.25-9.422-45.25-45C1016,423.889,1025.14,414.751,1061.5,414.751Z" transform="translate(-1016 -414.75)"/>
+  <path id="icon" class="cls-2" d="M1062.84,455.426l3.07,1.489,4.62-1.489v-2.7a10.055,10.055,0,1,0-20.11,0v14.183a2.36,2.36,0,1,1-4.72,0v-5.937H1038v5.937a10.055,10.055,0,1,0,20.11,0V452.722a2.365,2.365,0,1,1,4.73,0v2.7h0Zm12.42,5.542v5.937a2.365,2.365,0,1,1-4.73,0v-6.057l-4.63,1.489-3.06-1.489v6.057a10.055,10.055,0,1,0,20.11,0v-5.937h-7.69Z" transform="translate(-1016 -414.75)"/>
+</svg>
